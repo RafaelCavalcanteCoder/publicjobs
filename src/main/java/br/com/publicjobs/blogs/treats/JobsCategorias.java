@@ -1,6 +1,6 @@
-package br.com.publicjobs.blogs.tratamento;
+package br.com.publicjobs.blogs.treats;
 
-public enum Categorias {
+public enum JobsCategorias {
     FRONT_END,
     BACK_END,
     MOBILE,
